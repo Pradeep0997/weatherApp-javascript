@@ -42,7 +42,7 @@ The Weather API App is a simple and interactive web application that allows user
 
 
  🔗 **Links**
-- **Live Demo:** [Your Live Demo Link](https://your-username.github.io/weather-api-app) *(if hosted)*  
+- **Live Demo:** https://pradeep0997.github.io/weatherApp-javascript/*  
 
 
 ✅ This README covers all the necessary details: overview, tech stack, features, setup, and usage. Let me know if you want any modifications or additions! 🚀
